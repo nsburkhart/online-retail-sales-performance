@@ -8,6 +8,10 @@ answer business questions with SQL, investigate unusual trends and
 outliers, and build a dashboard that summarizes sales performance,
 customer behavior, geographic performance, and product performance.
 
+## Tableau Dashboard
+
+![Online Retail Sales Performance Dashboard](Dashboard%20Screenshot.png)
+
 ## Tools Used
 
 -   PostgreSQL
